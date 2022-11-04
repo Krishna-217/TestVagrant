@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-04T09:45:34 IST" name="Default suite" finished-at="2022-11-04T09:46:12 IST" duration-ms="37144">
+    <groups>
+    </groups>
+    <test started-at="2022-11-04T09:45:34 IST" name="Default test" finished-at="2022-11-04T09:46:12 IST" duration-ms="37144">
+      <class name="common.qa.test.SearchMoive_Test">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:common.qa.test.SearchMoive_Test@55b53d44]" started-at="2022-11-04T09:45:34 IST" name="setUp" finished-at="2022-11-04T09:45:41 IST" duration-ms="6129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testIMBDPAge()[pri:1, instance:common.qa.test.SearchMoive_Test@55b53d44]" started-at="2022-11-04T09:45:41 IST" name="testIMBDPAge" finished-at="2022-11-04T09:45:56 IST" duration-ms="15736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testIMBDPAge -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:common.qa.test.SearchMoive_Test@55b53d44]" started-at="2022-11-04T09:45:56 IST" name="tearDown" finished-at="2022-11-04T09:45:58 IST" duration-ms="1532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:common.qa.test.SearchMoive_Test@55b53d44]" started-at="2022-11-04T09:45:58 IST" name="setUp" finished-at="2022-11-04T09:46:01 IST" duration-ms="2823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testWikiPage()[pri:2, instance:common.qa.test.SearchMoive_Test@55b53d44]" started-at="2022-11-04T09:46:01 IST" name="testWikiPage" finished-at="2022-11-04T09:46:07 IST" duration-ms="5862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWikiPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:common.qa.test.SearchMoive_Test@55b53d44]" started-at="2022-11-04T09:46:07 IST" name="tearDown" finished-at="2022-11-04T09:46:08 IST" duration-ms="1109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:common.qa.test.SearchMoive_Test@55b53d44]" started-at="2022-11-04T09:46:08 IST" name="setUp" finished-at="2022-11-04T09:46:10 IST" duration-ms="2658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:common.qa.test.SearchMoive_Test@55b53d44]" started-at="2022-11-04T09:46:10 IST" name="tearDown" finished-at="2022-11-04T09:46:12 IST" duration-ms="1256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="testValidateMoviewDeatils()[pri:3, instance:common.qa.test.SearchMoive_Test@55b53d44]" started-at="2022-11-04T09:46:10 IST" name="testValidateMoviewDeatils" finished-at="2022-11-04T09:46:10 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidateMoviewDeatils -->
+      </class> <!-- common.qa.test.SearchMoive_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
